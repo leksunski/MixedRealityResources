@@ -75,6 +75,7 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 - [Thingsverse](https://www.thingiverse.com/)
 - [Clara.io](https://clara.io/library)
 - [CG Trader](https://www.cgtrader.com/3d-models/library)
+- [Hum3D](https://hum3d.com/)
 - [Free3D](https://free3d.com/3d-models/library)
 - [3D Export](https://3dexport.com/free-3d-models)
 - [Bibliocad](https://www.bibliocad.com/en/)
